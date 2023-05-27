@@ -1,3 +1,3 @@
 # wallet
 Onoshkin Ivan
-https://onoshkinivan.github.io/wallet/
+https://onoshkinivan.github.io/wallet /
